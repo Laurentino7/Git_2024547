@@ -19,7 +19,8 @@ public class Git_2024547 {// defines the class named  git_2024547
     public static void main(String[] args) {// main method where program execution begins.
         // Scanner to read user input
         Scanner scanner = new Scanner(System.in);
-          System.out.println(" Laurentino Carlos - 2024547");// Display name  and student number
+          System.out.println(" Laurentino Carlos ");// Display name  and student number
+          System.out.println("- 2024547");
     }
     
 }
